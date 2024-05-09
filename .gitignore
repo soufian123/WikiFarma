@@ -266,3 +266,10 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/
+
+
+
+#soufi ignora ficheros
+WikiFarma\bin\Debug\net8.0\WikiFarma.dll
+WikiFarma\bin\Debug\net8.0\WikiFarma.exe
+WikiFarma\bin\Debug\net8.0\WikiFarma.pdb

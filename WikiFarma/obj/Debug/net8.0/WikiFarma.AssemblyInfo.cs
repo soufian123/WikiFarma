@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikiFarma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0273b81c102ac8713fbb917656bc1f2e670e077e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a94b7bade7e71f93b452f1352c6232577034de")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikiFarma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikiFarma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
