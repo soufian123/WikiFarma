@@ -273,6 +273,7 @@ __pycache__/
 WikiFarma\bin\Debug\net8.0\WikiFarma.dll
 WikiFarma\bin\Debug\net8.0\WikiFarma.exe
 WikiFarma\bin\Debug\net8.0\WikiFarma.pdb
+WikiFarma\bin\Debug\net8.0\WikiFarma.staticwebassets.runtime.json
 
 WikiFarma\obj\Debug\net8.0\ref\WikiFarma.dll
 WikiFarma\obj\Debug\net8.0\refint\WikiFarma.dll
@@ -282,3 +283,16 @@ WikiFarma\obj\Debug\net8.0\WikiFarma.AssemblyInfoInputs.cache
 WikiFarma\obj\Debug\net8.0\WikiFarma.dll
 WikiFarma\obj\Debug\net8.0\WikiFarma.pdb
 WikiFarma\obj\Debug\net8.0\WikiFarma.sourcelink.json
+
+WikiFarma\obj\Debug\net8.0\staticwebassets.build.json
+WikiFarma\obj\Debug\net8.0\staticwebassets.development.json
+WikiFarma\obj\Debug\net8.0\staticwebassets.pack.json
+
+WikiFarma\obj\Debug\net8.0\WikiFarma.assets.cache
+
+WikiFarma\obj\Debug\net8.0\WikiFarma.GeneratedMSBuildEditorConfig.editorconfig
+WikiFarma\obj\Debug\net8.0\WikiFarma.genruntimeconfig.cache
+WikiFarma\obj\project.assets.json
+WikiFarma\obj\project.nuget.cache
+WikiFarma\obj\WikiFarma.csproj.nuget.dgspec.json
+WikiFarma\obj\WikiFarma.csproj.nuget.g.props
