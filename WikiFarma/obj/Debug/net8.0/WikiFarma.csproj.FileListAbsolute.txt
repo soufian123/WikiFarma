@@ -29,3 +29,34 @@ C:\GitHub\WikiFarma\WikiFarma\obj\Debug\net8.0\refint\WikiFarma.dll
 C:\GitHub\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.pdb
 C:\GitHub\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.genruntimeconfig.cache
 C:\GitHub\WikiFarma\WikiFarma\obj\Debug\net8.0\ref\WikiFarma.dll
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\appsettings.Development.json
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\appsettings.json
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.staticwebassets.runtime.json
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.exe
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.deps.json
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.runtimeconfig.json
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.dll
+C:\Git repos\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.pdb
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.AssemblyInfoInputs.cache
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.AssemblyInfo.cs
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.csproj.CoreCompileInputs.cache
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.MvcApplicationPartsAssemblyInfo.cache
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.RazorAssemblyInfo.cache
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.RazorAssemblyInfo.cs
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.sourcelink.json
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.build.json
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.development.json
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.WikiFarma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.build.WikiFarma.props
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WikiFarma.props
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WikiFarma.props
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\bundle\WikiFarma.styles.css
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\projectbundle\WikiFarma.bundle.scp.css
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.dll
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\refint\WikiFarma.dll
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.pdb
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.genruntimeconfig.cache
+C:\Git repos\WikiFarma\WikiFarma\obj\Debug\net8.0\ref\WikiFarma.dll
