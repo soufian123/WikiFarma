@@ -91,3 +91,34 @@ C:\PROYECTO\WikiFarma\WikiFarma\obj\Debug\net8.0\refint\WikiFarma.dll
 C:\PROYECTO\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.pdb
 C:\PROYECTO\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.genruntimeconfig.cache
 C:\PROYECTO\WikiFarma\WikiFarma\obj\Debug\net8.0\ref\WikiFarma.dll
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\appsettings.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.staticwebassets.runtime.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.exe
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.deps.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.runtimeconfig.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.dll
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\bin\Debug\net8.0\WikiFarma.pdb
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.AssemblyInfoInputs.cache
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.AssemblyInfo.cs
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.csproj.CoreCompileInputs.cache
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.RazorAssemblyInfo.cache
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.RazorAssemblyInfo.cs
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.sourcelink.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.WikiFarma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.build.WikiFarma.props
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WikiFarma.props
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WikiFarma.props
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\bundle\WikiFarma.styles.css
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\scopedcss\projectbundle\WikiFarma.bundle.scp.css
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.dll
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\refint\WikiFarma.dll
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.pdb
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\WikiFarma.genruntimeconfig.cache
+C:\Users\a924449\Documents\Final Group Project\group2\WikiFarma\WikiFarma\obj\Debug\net8.0\ref\WikiFarma.dll
