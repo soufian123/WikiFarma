@@ -1,0 +1,11 @@
+@page
+@model DetailsModel
+@{
+    ViewData["Title"] = "Detalles de " + Model.Persona.Nombre;
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Nombre: @Model.Persona.Nombre</p>
+<p>Edad: @Model.Persona.Edad</p>
+<p>Teléfono: @Model.Persona.Telefono</p>

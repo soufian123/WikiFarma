@@ -1,0 +1,63 @@
+    .my-list {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .my-list li {
+        border: 1px solid black;
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+
+    .my-list li a {
+        color: black;
+        text-decoration: none;
+        display: block; /* Hace que el enlace ocupe todo el espacio del elemento de la lista */
+    }
+
+    .my-list li:hover {
+        background-color: #dadada;  /* Cambia el color de fondo cuando se pasa el ratón por encima */
+        /* background-color: #f2f2f2; */
+    }
+
+    .center-content {
+    /*    flex-grow: 1;
+        overflow-y: auto;
+*/
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+        overflow-y: auto;
+    }
+    
+    .search-form {
+        position: sticky; /* Hace que el buscador se mantenga fijo */
+        top: 0; /* Alinea el buscador en la parte superior */
+        background: white; /* Asegura que el buscador no sea transparente */
+        z-index: 1; /* Asegura que el buscador esté por encima de la lista */
+        margin-bottom: 20px; /* Ajusta esto según tus necesidades */
+        justify-content: flex-start;
+
+    }
+    
+    body {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        overflow-y: auto;
+    }
+
+    .top-menu {
+        position: sticky;
+        top: 0;
+        background: white;
+        z-index: 1;
+    }
+
+    .centrar {
+        /*centrar*/
+        display: flex;
+        justify-content: center;
+        
+    }

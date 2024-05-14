@@ -1,8 +1,36 @@
 ﻿@page
-@model PrivacyModel
+@model TestModel
 @{
-    ViewData["Title"] = "Test";
+    ViewData["Title"] = "Buscador de Farmacos";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<!-- Menú superior -->
+<div class="top-menu">
+    <h1>@ViewData["Title"]</h1>
+    <div class="centrar">
+        <form method="get" class="search-form">
+            <input type="text" name="busqueda" placeholder="Buscar..." />
+            <input type="submit" value="Buscar" />
+        </form>
+    </div>
+</div>
+
+<!-- Referencia al archivo CSS externo -->
+<link rel="stylesheet" href="~/css/styles.css" />
+
+<div class="center-content">
+
+    @if (Model.Resultados != null)
+    {
+        <ul class="my-list">
+        @foreach (var persona in Model.Resultados)
+        {
+            <li>
+                <a href="@Url.Page("Details", new { name = persona.Nombre })">
+                    @persona.Nombre, @persona.Edad, @persona.Telefono
+                </a>
+            </li>
+        }
+        </ul>
+    }
+</div>
