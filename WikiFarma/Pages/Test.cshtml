@@ -21,16 +21,17 @@
 <div class="center-content">
 
     @if (Model.Resultados != null)
+{
+    <ul class="my-list">
+    @foreach (var persona in Model.Resultados)
     {
-        <ul class="my-list">
-        @foreach (var persona in Model.Resultados)
-        {
-            <li>
-                <a href="@Url.Page("Details", new { name = persona.Nombre })">
-                    @persona.Nombre, @persona.Edad, @persona.Telefono
-                </a>
-            </li>
-        }
-        </ul>
+        <li>
+            <img src="@persona.Imagen" alt="@persona.Nombre" style="width: 100px; height: 100px;"> <!-- Ajusta el tamaño de la imagen según tus necesidades -->
+            <a href="@Url.Page("Details", new { name = persona.Nombre })">
+                @persona.Nombre, @persona.Edad, @persona.Telefono
+            </a>
+        </li>
     }
+    </ul>
+}
 </div>
