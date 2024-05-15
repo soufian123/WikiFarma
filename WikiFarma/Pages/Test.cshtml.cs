@@ -49,5 +49,6 @@ namespace WikiFarma.Pages
                 Resultados = Personas.Where(p => p.Nombre.Contains(busqueda)).ToList();
             }
         }
+        
     }
 }
