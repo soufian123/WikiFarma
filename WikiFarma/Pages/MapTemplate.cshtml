@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Map Template";
+}
+
+<div class="text-center">
+    <div class="d-inline-block" style="width: 60%;">
+        <h1 class="display-4" style="display: inline-block;">MAPA FARMACIAS</h1>
+        <form asp-page-handler="Search" method="get" class="d-inline-block"  style="width: 60%;">
+            <div class="input-group mb-3" style="margin-top: 20px;">
+                <input type="text" class="form-control"
+                       placeholder="Busca tu farmacia más cercana"
+                       name="query">
+                <div class="input-group-append">
+                    <button class="btn btn-primary" type="submit">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">

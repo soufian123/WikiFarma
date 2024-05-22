@@ -1,16 +1,16 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Trial";
+    ViewData["Title"] = "Food Template";
 }
 
 <div class="text-center">
     <div class="d-inline-block" style="width: 60%;">
-        <h1 class="display-4" style="display: inline-block;">ENCUENTRA TU MEDICAMENTO AQUÍ</h1>
+        <h1 class="display-4" style="display: inline-block;">RUTINA COMIDA SALUDABLE</h1>
         <form asp-page-handler="Search" method="get" class="d-inline-block"  style="width: 60%;">
             <div class="input-group mb-3" style="margin-top: 20px;">
                 <input type="text" class="form-control"
-                       placeholder="Busca por medicamento y sintoma"
+                       placeholder="Busca tu plan de comida"
                        name="query">
                 <div class="input-group-append">
                     <button class="btn btn-primary" type="submit">

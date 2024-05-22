@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace WikiFarma.Pages;
 
-public class Trial : PageModel
+public class SOSTemplate : PageModel
 {
     private readonly ILogger<IndexModel> _logger;
 
-    public Trial(ILogger<IndexModel> logger)
+    public SOSTemplate(ILogger<IndexModel> logger)
     {
         _logger = logger;
     }
